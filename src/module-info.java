@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ambur
+ *
+ */
+module AJaySample {
+}
